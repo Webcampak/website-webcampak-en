@@ -1,0 +1,51 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Webcampak
+  url: "/webcampak/"
+  side: left
+
+- title: Cloud
+  url: "/cloud/"
+  side: left
+
+- title: Gallery
+  url: "/gallery/"
+  side: left
+
+- title: Demo
+  url: "http://demo.webcampak.com"
+  side: left
+
+- title: Documentation
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: Documentation
+    url: "/documentation/"
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "About Us"
+  url: "/about-us/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

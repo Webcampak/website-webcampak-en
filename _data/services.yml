@@ -1,0 +1,21 @@
+- menu_name: "Services"
+
+- name: "Contact"
+  url: "/contact/"
+  class: "services-contact"
+  title: "Contact"
+
+- name: "Terms & Conditions"
+  url: "/conditions-d-utilisation/"
+  class: "services-contact"
+  title: "Conditions d'utilisation"
+
+- name: "RSS"
+  url: "/feed.xml"
+  class: "rss-link"
+  title: "Subscribe to RSS"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  class: "sitemap-link"
+  title: "Sitemap for Google Webmastertools"
