@@ -45,6 +45,7 @@
 .icon-eye:before,
 .icon-facebook:before,
 .icon-feather:before,
+.icon-flag-french:before,
 .icon-github:before,
 .icon-globe:before,
 .icon-heart:before,
@@ -113,6 +114,7 @@
 .icon-eye:before { content: "\f112"; }
 .icon-facebook:before { content: "\f113"; }
 .icon-feather:before { content: "\f114"; }
+.icon-flag-french:before { content: "\f136"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
 .icon-heart:before { content: "\f117"; }

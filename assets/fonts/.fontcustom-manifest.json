@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c5cdc0a58b7277d1f320a4ad50aa8ae2ad47fa6ed879c164db1cfb75439bd1d9",
-    "current": "c5cdc0a58b7277d1f320a4ad50aa8ae2ad47fa6ed879c164db1cfb75439bd1d9"
+    "previous": "8b431aecac2bbcb0f8f51912cf8378976ced28ca079566ee7f734d92a0525013",
+    "current": "8b431aecac2bbcb0f8f51912cf8378976ced28ca079566ee7f734d92a0525013"
   },
   "fonts": [
     "./iconfont.ttf",
@@ -97,6 +97,10 @@
     "feather": {
       "codepoint": 61716,
       "source": "svg-files-for-custom-font/feather.svg"
+    },
+    "flag-french": {
+      "codepoint": 61750,
+      "source": "svg-files-for-custom-font/flag-french.svg"
     },
     "github": {
       "codepoint": 61717,
@@ -239,8 +243,8 @@
     "font_name": "iconfont",
     "force": false,
     "input": {
-      "templates": "svg-files-for-custom-font",
-      "vectors": "svg-files-for-custom-font"
+      "templates": "svg-files-for-custom-font/",
+      "vectors": "svg-files-for-custom-font/"
     },
     "no_hash": true,
     "output": {
