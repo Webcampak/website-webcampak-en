@@ -21,12 +21,12 @@ description: "»Webcampak« is a reliable and secured platform to support your h
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://webcampak.github.io/webcampak-en"
+url: "http://webcampak.github.io/website-webcampak-en"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://webcampak.github.io/webcampak-en/edit/gh-pages
+improve_content: https://webcampak.github.io/website-webcampak-en/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
