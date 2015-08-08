@@ -49,6 +49,8 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+  icon: "icon-camera"
+
 
 - title: "Français"
   url: "http://www.webcampak.com/"
