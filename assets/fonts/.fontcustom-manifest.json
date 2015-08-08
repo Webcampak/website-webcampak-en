@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8b431aecac2bbcb0f8f51912cf8378976ced28ca079566ee7f734d92a0525013",
-    "current": "8b431aecac2bbcb0f8f51912cf8378976ced28ca079566ee7f734d92a0525013"
+    "previous": "5a58ae3913cf7771aa7a824f9e704f4709786063cf93593b6a0e23e4bf9b1743",
+    "current": "5a58ae3913cf7771aa7a824f9e704f4709786063cf93593b6a0e23e4bf9b1743"
   },
   "fonts": [
     "./iconfont.ttf",
@@ -101,6 +101,10 @@
     "flag-french": {
       "codepoint": 61750,
       "source": "svg-files-for-custom-font/flag-french.svg"
+    },
+    "flag-frenchb": {
+      "codepoint": 61751,
+      "source": "svg-files-for-custom-font/flag-frenchb.svg"
     },
     "github": {
       "codepoint": 61717,
