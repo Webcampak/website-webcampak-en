@@ -27,6 +27,7 @@
 .icon-browser:before,
 .icon-calendar:before,
 .icon-camera:before,
+.icon-camerab:before,
 .icon-chat:before,
 .icon-check:before,
 .icon-chevron-down:before,
@@ -97,6 +98,7 @@
 .icon-browser:before { content: "\f101"; }
 .icon-calendar:before { content: "\f133"; }
 .icon-camera:before { content: "\f102"; }
+.icon-camerab:before { content: "\f138"; }
 .icon-chat:before { content: "\f103"; }
 .icon-check:before { content: "\f104"; }
 .icon-chevron-down:before { content: "\f105"; }

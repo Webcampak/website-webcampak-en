@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b0467d818320edfdf91f3d41b93928ea563f0d8e2996f8d9ea9b5492d038421e",
-    "current": "b0467d818320edfdf91f3d41b93928ea563f0d8e2996f8d9ea9b5492d038421e"
+    "previous": "f9e99a080abaec3fd24437d320c809a1c28a17d0edc2c39f88e647dae3bc0e55",
+    "current": "f9e99a080abaec3fd24437d320c809a1c28a17d0edc2c39f88e647dae3bc0e55"
   },
   "fonts": [
     "./iconfont.ttf",
@@ -25,6 +25,10 @@
     "camera": {
       "codepoint": 61698,
       "source": "svg-files-for-custom-font/camera.svg"
+    },
+    "camerab": {
+      "codepoint": 61752,
+      "source": "svg-files-for-custom-font/camerab.svg"
     },
     "chat": {
       "codepoint": 61699,
