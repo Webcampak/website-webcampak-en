@@ -1,4 +1,4 @@
-/* TOC – Typography 
+/* TOC – Typography
 
 Check typography variables › _3_typography_settings.scss
 
@@ -47,7 +47,7 @@ a:active {
 /* Customize Foundation Typography
 ------------------------------------------------------------------- */
 
-p { 
+p {
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
@@ -234,9 +234,9 @@ blockquote {
     margin: 0 30px 30px 30px;
     color: #4b4b4d
 }
- 
+
     blockquote p {font-style: italic; color: $grey-10; }
- 
+
     blockquote:before {
         display:block;content:"\00BB";
         font-size:80px;
@@ -327,7 +327,7 @@ mark {
 .footnotes {
     margin-top: 60px;
 }
-.footnotes ol { 
+.footnotes ol {
     font-size: $font-size-small;
 }
 
@@ -357,6 +357,7 @@ mark {
 .icon-browser:before,
 .icon-calendar:before,
 .icon-camera:before,
+.icon-camerab:before,
 .icon-chat:before,
 .icon-check:before,
 .icon-chevron-down:before,
@@ -375,6 +376,8 @@ mark {
 .icon-eye:before,
 .icon-facebook:before,
 .icon-feather:before,
+.icon-flag-french:before,
+.icon-flag-frenchb:before,
 .icon-github:before,
 .icon-globe:before,
 .icon-heart:before,
@@ -425,6 +428,7 @@ font-smoothing: antialiased;
 .icon-browser:before { content: "\f101"; }
 .icon-calendar:before { content: "\f133"; }
 .icon-camera:before { content: "\f102"; }
+.icon-camerab:before { content: "\f138"; }
 .icon-chat:before { content: "\f103"; }
 .icon-check:before { content: "\f104"; }
 .icon-chevron-down:before { content: "\f105"; }
@@ -443,6 +447,8 @@ font-smoothing: antialiased;
 .icon-eye:before { content: "\f112"; }
 .icon-facebook:before { content: "\f113"; }
 .icon-feather:before { content: "\f114"; }
+.icon-flag-french:before { content: "\f136"; }
+.icon-flag-frenchb:before { content: "\f137"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
 .icon-heart:before { content: "\f117"; }
