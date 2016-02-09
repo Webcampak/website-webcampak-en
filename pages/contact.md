@@ -16,7 +16,7 @@ We’ll be pleased to answer your questions about Webcampak, Webcampak Cloud or 
 <div class="row medium-uncollapse large-collapse">
     <div class="small-6 columns">
        Eurotechnia <br />
-       7, Allée des Bourrelier<br />
+       7, Allée des Bourreliers<br />
        44160 Pont-Château<br />
        France<br />
        <b>Tel</b>: +33 (0) 2 51 10 74 15<br />
