@@ -21,11 +21,4 @@ We’ll be pleased to answer your questions about Webcampak, Webcampak Cloud or 
        France<br />
        <b>Tel</b>: +33 (0) 2 51 10 74 15<br />
     </div>
-    <div class="small-6 columns">
-       North America (U.S.A & Canada)<br />
-       Eurotechnia Ltd.<br />
-       1702-96 Saint Patrick St.<br />
-       M5T 1V2, Toronto, ON<br />
-       Canada<br />
-    </div>
 </div>
