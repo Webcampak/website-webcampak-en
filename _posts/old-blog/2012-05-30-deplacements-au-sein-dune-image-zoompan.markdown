@@ -3,7 +3,7 @@ layout: page
 subheadline: "Tech"
 title: "Moving inside a picture (zoom/pan)"
 date: 2012-05-30 18:58:52+00:00
-teaser: "Nous avons ajouté il y a quelques temps des fonctionnalités permettant de se "déplacer" au sein d'une série d'images et de réaliser des effets de zoom, déplacement (pan) ou de combiner les deux."
+teaser: "Nous avons ajouté il y a quelques temps des fonctionnalités permettant de se 'déplacer' au sein d'une série d'images et de réaliser des effets de zoom, déplacement (pan) ou de combiner les deux."
 header:
     image_fullwidth: "header_typewriter.jpg"
     caption: Image by Florian Klauer
