@@ -12,7 +12,7 @@ image:
     thumb:  typewriter_thumb.jpg
     homepage: homepage_typewriter.jpg
 categories:
-    - Tech
+    - tech
 comments: false
 show_meta: true
 redirect_from:
