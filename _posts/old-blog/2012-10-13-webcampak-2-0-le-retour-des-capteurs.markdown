@@ -3,7 +3,7 @@ layout: page
 subheadline: "Tech"
 title: "Webcampak 2.0 – Sensors are back"
 date: 2012-10-13 21:41:55+00:00
-teaser: "They are now back, when a source is equipped with weather sensors, a specific button will be displayed on the right of "Email" button, it can be used to display values recorded by the system."
+teaser: "They are now back, when a source is equipped with weather sensors, a specific button will be displayed on the right of 'Email' button, it can be used to display values recorded by the system."
 header:
     image_fullwidth: "header_typewriter.jpg"
     caption: Image by Florian Klauer
