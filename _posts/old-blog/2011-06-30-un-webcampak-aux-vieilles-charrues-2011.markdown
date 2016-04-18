@@ -3,7 +3,7 @@ layout: page
 subheadline: "Tech"
 title: "Webcampak installed at Vielles Charrues 2011 music festival"
 date: 2011-06-30 14:16:32+00:00
-teaser: "We recently installed a Wecbampak at "Vieilles Charrues 2011" music festival, a famous event taking place in west of France. "
+teaser: "We recently installed a Wecbampak at 'Vieilles Charrues 2011' music festival, a famous event taking place in west of France. "
 header:
     image_fullwidth: "header_typewriter.jpg"
     caption: Image by Florian Klauer
