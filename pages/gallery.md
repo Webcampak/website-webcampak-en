@@ -64,7 +64,25 @@ redirect_from:
 </div>
 
 ## Webcampak interface (v3.x)
-Coming soon...
+<ul class="clearing-thumbs small-block-grid-5" data-clearing>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.login.en.png"><img data-caption="Login window" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.login.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.menu.en.png"><img data-caption="Global menu" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.menu.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.pictures.en.png"><img data-caption="Captures pictures" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.pictures.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.videos.en.png"><img data-caption="Generated videos" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.videos.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.sats.source.en.png"><img data-caption="Source statistics" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.sats.source.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.sats.system.en.png"><img data-caption="System statistics" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.sats.system.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.config.en.png"><img data-caption="Configuration of a source" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.config.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.sync-reports.en.png"><img data-caption="Sync reports" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.sync-reports.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.logs.en.png"><img data-caption="Access logs" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.logs.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.xfer-reports.en.png"><img data-caption="XFer State" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.xfer-reports.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.config-general.en.png"><img data-caption="System configuration" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.config-general.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.alert-schedule.en.png"><img data-caption="Alerts calendar" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.alert-schedule.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.access-control.en.png"><img data-caption="Permissions" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.access-control.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.dashboard.home.en.png"><img data-caption="Dashboard home" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.dashboard.home.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.dashboard.login.en.png"><img data-caption="Dashboard login" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.dashboard.login.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.dashboard.pictures.en.png"><img data-caption="Dashboard pictures" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.dashboard.pictures.en-150x150.png"></a></li>
+  <li><a href="http://www.webcampak.com/images/wpak3.screenshot.dashboard.videos.en.png"><img data-caption="Dashboard videos" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.dashboard.videos.en-150x150.png"></a></li>
+</ul>
 
 ## Webcampak interface (v2.x)
 <ul class="clearing-thumbs small-block-grid-5" data-clearing>
