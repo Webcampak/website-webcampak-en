@@ -63,7 +63,7 @@ redirect_from:
   </div>
 </div>
 
-## Webcampak interface (v3.x)
+## Webcampak interface (v3.x) - 2017
 <ul class="clearing-thumbs small-block-grid-5" data-clearing>
   <li><a href="http://www.webcampak.com/images/wpak3.screenshot.login.en.png"><img data-caption="Login window" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.login.en-150x150.png"></a></li>
   <li><a href="http://www.webcampak.com/images/wpak3.screenshot.menu.en.png"><img data-caption="Global menu" class="th" src="http://www.webcampak.com/images/wpak3.screenshot.menu.en-150x150.png"></a></li>
