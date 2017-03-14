@@ -5,9 +5,6 @@ subheadline: "Webcampak Demo Server"
 permalink: "/demo/"
 header:
    image_fullwidth: "header_unsplash_1.jpg"
-redirect_from:
-    - /fr/demo/
-    - /demo/
 ---
 
 A demo account is available on one of our servers to give you a quick look at what Webcampak is.
