@@ -36,7 +36,7 @@ widget-2:
 widget-3:
     title: "You are in control"
     url: '/about-us/'
-    text: 'We try to give our customers with as much freedom as possible. All our products are equipped with a powerful interface to let you edit Webcampak configuration at anytime during your project. And best of all if you are a hobbyist (or not), Webcampak is and has always been <a href="https://github.com/Webcampak/v3.0">open-source</a>.'
+    text: 'We try to give our customers with as much freedom as possible. All our products are equipped with a powerful interface to let you edit Webcampak configuration at anytime during your project. And best of all if you are a hobbyist (or not), Webcampak is and has always been <a href="https://github.com/Webcampak/core">open-source</a>.'
     image: github-303x182.jpg
 
 
