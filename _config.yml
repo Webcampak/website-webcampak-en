@@ -21,7 +21,7 @@ description: "»Webcampak« is a reliable and secured platform to support your h
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://en.webcampak.com"
+url: "https://en.webcampak.com"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,7 +34,7 @@ improve_content: https://en.webcampak.com/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://www.webcampak.com/images/"
+urlimg: "https://www.webcampak.com/images/"
 
 
 # Logo size is 600x80 pixels
