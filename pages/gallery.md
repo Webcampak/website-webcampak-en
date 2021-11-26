@@ -37,13 +37,13 @@ redirect_from:
 <div class="row">
   <div class="large-6 columns">
     <div class="flex-video">
-            <iframe width="420" height="315" src="//www.youtube.com/embed/DJGEr7XwLTw" frameborder="0" allowfullscreen></iframe>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/DJGEr7XwLTw" frameborder="0" allowfullscreen></iframe>
     </div>
     <p>Webcampak Mobile interface</p>
   </div>
   <div class="large-6 columns">
     <div class="flex-video">
-            <iframe width="420" height="315" src="//www.youtube.com/embed/hEvGPqAwOwc" frameborder="0" allowfullscreen></iframe>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/hEvGPqAwOwc" frameborder="0" allowfullscreen></iframe>
     </div>
     <p>Video generated automatically by Webcampak</p>
   </div>
@@ -51,13 +51,13 @@ redirect_from:
 <div class="row">
   <div class="large-6 columns">
     <div class="flex-video">
-            <iframe width="420" height="315" src="//www.youtube.com/embed/H-7A3Ol_q64" frameborder="0" allowfullscreen></iframe>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/H-7A3Ol_q64" frameborder="0" allowfullscreen></iframe>
     </div>
     <p>Video created by a client, using pictures captured by Webcampak </p>
   </div>
   <div class="large-6 columns">
     <div class="flex-video">
-            <iframe width="420" height="315" src="//www.youtube.com/embed/GWFHCpWAJ1s" frameborder="0" allowfullscreen></iframe>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/GWFHCpWAJ1s" frameborder="0" allowfullscreen></iframe>
     </div>
     <p>Video created by a client, mixing pictures captured by Webcampak on close-up timelapses</p>
   </div>
